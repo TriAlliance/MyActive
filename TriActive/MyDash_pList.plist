@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivityLevel</key>
+	<array>
+		<string>Sedentary - Little or no exercise - Desk job.</string>
+		<string>Lightly Active - Light exercise 1-3 days a week.</string>
+		<string>Moderately Active - Moderate exercise 3-5 days a week.</string>
+		<string>Very Active - Hard exercise 6-7 days a week.</string>
+		<string>Extra Active - Very Hard exercise/training or physically demanding job.</string>
+	</array>
+	<key>Energy</key>
+	<array>
+		<dict>
+			<key>key</key>
+			<string>On the Floor</string>
+			<key>value</key>
+			<string>11%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Spent</string>
+			<key>value</key>
+			<string>22%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Tired</string>
+			<key>value</key>
+			<string>33%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Fading</string>
+			<key>value</key>
+			<string>44%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Calm</string>
+			<key>value</key>
+			<string>55%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Alert</string>
+			<key>value</key>
+			<string>66%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Energetic</string>
+			<key>value</key>
+			<string>77%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Pumped</string>
+			<key>value</key>
+			<string>88%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Peaking</string>
+			<key>value</key>
+			<string>99%</string>
+		</dict>
+	</array>
+	<key>Mood</key>
+	<array>
+		<dict>
+			<key>key</key>
+			<string>Help</string>
+			<key>value</key>
+			<string>11%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Terrible</string>
+			<key>value</key>
+			<string>22%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Bad</string>
+			<key>value</key>
+			<string>33%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Not Good</string>
+			<key>value</key>
+			<string>44%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Ok</string>
+			<key>value</key>
+			<string>55%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Good</string>
+			<key>value</key>
+			<string>66%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Excellent</string>
+			<key>value</key>
+			<string>77%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Awesome</string>
+			<key>value</key>
+			<string>88%</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Epic</string>
+			<key>value</key>
+			<string>99%</string>
+		</dict>
+	</array>
+	<key>SleepHour</key>
+	<array>
+		<string>1</string>
+		<string>2</string>
+		<string>3</string>
+		<string>4</string>
+		<string>5</string>
+		<string>6</string>
+		<string>7</string>
+		<string>8</string>
+		<string>9</string>
+		<string>10</string>
+		<string>11</string>
+		<string>12</string>
+		<string>13</string>
+		<string>14</string>
+		<string>15</string>
+		<string>16</string>
+		<string>17</string>
+		<string>18</string>
+		<string>19</string>
+		<string>20</string>
+		<string>21</string>
+		<string>22</string>
+		<string>23</string>
+		<string>24</string>
+	</array>
+	<key>Gender</key>
+	<array>
+		<string>Male</string>
+		<string>Female</string>
+	</array>
+	<key>SleepQuality</key>
+	<array>
+		<dict>
+			<key>key</key>
+			<string>Didn&apos;t sleep</string>
+			<key>percentage</key>
+			<string>11%
+11</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Hardly slept</string>
+			<key>percentage</key>
+			<string>22%
+11</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Restless sleep </string>
+			<key>percentage</key>
+			<string>33%
+11</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Didn&apos;t sleep enough</string>
+			<key>percentage</key>
+			<string>44%
+11</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Slept enough</string>
+			<key>percentage</key>
+			<string>55%
+11</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Ok sleep</string>
+			<key>percentage</key>
+			<string>66%
+11</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Good sleep</string>
+			<key>percentage</key>
+			<string>77%
+11</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Great sleep</string>
+			<key>percentage</key>
+			<string>88%
+11</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>Slept like a baby</string>
+			<key>percentage</key>
+			<string>99%
+11</string>
+		</dict>
+	</array>
+</dict>
+</plist>
